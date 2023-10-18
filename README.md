@@ -3,7 +3,7 @@ small landing page
 - **HTML**
 - **CSS**
 - **Javascript** 
-- **Can you view my [Project](https://kadirov-fariddun.github.io/landing-portfolio)**
+- **Can you view my [Project](https://kadirov-fariddun.github.io/landing-portfolio/)**
 ## libs
 - **Jquery 3.6.1**
 - **slick.js**
